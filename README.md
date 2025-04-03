@@ -1,4 +1,4 @@
-## Bem-vindos! Puxe uma cadeira e sinta-se à vontade. Me chamo Márcio! 👋
+## Bem-vindo! Puxe uma cadeira e sinta-se à vontade. Me chamo Márcio! 👋
 
 - 🎲 Graduando de Ciência de Dados (FIAP-SP)
 - 🌱 Atualmente estudando Python, SQL e NoSQL...
